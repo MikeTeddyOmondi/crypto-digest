@@ -1,4 +1,4 @@
-# JAMStack | Personal Blog Website 
+# Crypto Digest | Blog Website 
 
 The `src` folder contains files so that you can get your project up and running without worrying about content for posts/articles. That folder contains:
 
