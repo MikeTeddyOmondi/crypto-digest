@@ -289,6 +289,13 @@ section,
 	opacity: 0.9;
 }
 
+@media (max-width: 20em) {
+	#featured-image {
+		width: 300px;
+		height: 300px;
+	}
+}
+
 /* //////////////////////
   Article snippets
   /////////////////////// */
